@@ -10,11 +10,18 @@ In this course, my goal is for you to learn how to think about and apply the too
 
 The product of scientific work is knowledge. I want to give you the tools to effectively access and add to that knowledge.
 By the end of this course, I want you to:
+
 • be able to define the steps of the scientific method and develop models and hypotheses based on data
+
 • know where to find information about bacterial genes and proteins
+
 • be able to use and understand the nomenclature of bacterial genetics
+
 • understand the principles of mutagenesis and genetic engineering in microbes
+
 • know how to interpret mutant phenotypes in different kinds of genes and with different kinds of mutations
+
 • have a good working knowledge of bacterial physiology and cell biology
+
 • be able to design rigorous experiments to solve biological problems using bacterial genetics
 
