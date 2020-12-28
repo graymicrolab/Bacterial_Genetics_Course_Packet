@@ -25,3 +25,4 @@ By the end of this course, I want you to:
 
 • be able to design rigorous experiments to solve biological problems using bacterial genetics
 
+Note that, due to file limit sizes for GitHub updates, the most recent PDFs are saved in such a way that the images are not at the highest possible resolution. If, for some reason, you need the high-resolution version, please contact me.
